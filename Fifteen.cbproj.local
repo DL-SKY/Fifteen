@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.05.09 18:03:47.286.cpp,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.cpp=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\UMain.cpp</Transaction>
+    <Transaction>2015.05.09 18:03:47.286.h,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.h=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\UMain.h</Transaction>
+    <Transaction>2015.05.09 18:03:47.286.dfm,C:\Users\Александр\Documents\RAD Studio\Projects\Unit1.dfm=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\UMain.dfm</Transaction>
+    <Transaction>2015.05.09 18:03:55.196.cbproj,C:\Users\Александр\Documents\RAD Studio\Projects\Project1.cbproj=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\Fifteen.cbproj</Transaction>
+    <Transaction>2015.05.10 22:00:33.041.cpp,E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\Unit1.cpp=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\UConfig.cpp</Transaction>
+    <Transaction>2015.05.10 22:00:33.041.h,E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\Unit1.h=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\UConfig.h</Transaction>
+    <Transaction>2015.05.10 22:00:33.041.dfm,E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\Unit1.dfm=E:\АРХИВ\ТУСУР\2 семестр\Проектирование человеко-машинного интерфейса-2\Fifteen\UConfig.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
